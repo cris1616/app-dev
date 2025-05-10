@@ -27,6 +27,7 @@ ___________________________________________________________
   <li><h3>Sasha Blouse</h3></li>
    <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/c/ca/Sasha_Braus_%28Anime%29_character_image_%28850%29.png/revision/latest?cb=20210117223513" style="width:20%">
 </ul>
+
 ________________________________________________________
 <h2><strong><em>About this Anime</h2></strong></em>
 
